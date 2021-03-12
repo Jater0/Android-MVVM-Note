@@ -2,7 +2,7 @@
 
 ## Line
 
-![MVVM流程图](mvvm-line.drawio.png)
+![MVVM流程图](/image/mvvm-line.drawio.png)
 
 ## MVVM Basic Theme
 
